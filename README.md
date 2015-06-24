@@ -1,0 +1,2 @@
+# MacTest
+Cloning test
